@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Daiki Yamamoto
 
-**Software Engineer | Blockchain Enthusiast | Project Manager | Full-Stack Developer**
+**Full-Stack Developer | Blockchain Enthusiast | Project Manager**
 
 Welcome to my GitHub! With over 8 years of experience in software engineering, I have worked on diverse projects ranging from blockchain-based platforms to healthcare management systems, and AI-driven HR systems. My expertise lies in full-stack development, new business creation, and consulting—bridging technology and business needs.
 
@@ -26,11 +26,11 @@ Welcome to my GitHub! With over 8 years of experience in software engineering, I
 - **Healthcare Service**: Managed and developed a healthcare mobile app for 400,000 users, leading a backend refactoring with NestJS.
 
 ### Ridgelinez Inc. (Dec 2020 – Aug 2023) - Consultant
-- **Metaverse Business Support**: Partnered with clients to create metaverse solutions, focusing on prototyping and business validation.
+- **Metaverse Business Support**: Partnered with clients to create metaverse solutions, focusing on prototyping and business validation.[Reference](https://diamond.jp/articles/-/295882)
 - **HR Evaluation AI System**: Led design and implementation of an AI-driven HR evaluation system, optimizing talent selection.
 
 ### BlockBase Inc. (Oct 2018 – Dec 2020) - Software Engineer | Project Manager
-- **"bazaaar" - NFT Matching Platform**: Developed Japan's first NFT marketplace, demonstrating expertise in blockchain. 
+- **"bazaaar" - NFT Matching Platform**: Developed Japan's first NFT marketplace, demonstrating expertise in blockchain. [Reference](https://medium.com/blockbase/satellites-launch-a-marketplace-of-nft-df0adecf1874)
 - **Medical Information Management System**: Led development of a blockchain-based medication notebook management prototype.
 - **Other Blockchain Projects**: Provided technical support and development for various blockchain projects.
 
