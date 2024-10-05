@@ -41,24 +41,30 @@ Welcome to my GitHub! With over 8 years of experience in software engineering, I
 ### Works Applications Co., Ltd. (Apr 2016 – Dec 2017) - Software Engineer
 - **Package Software "COMPANY" Development**: Designed and maintained an SCM system, focusing on performance optimization and system integration.
 
+## Portfolio
+
+### AWS Serverless Event Driven Application
+A serverless architecture leveraging AWS services to demonstrate an event-driven system. This project showcases real-time data processing and microservice orchestration. [View Project](https://github.com/dan01240/aws-serverless-event-driven)
+
+<img src="https://github.com/user-attachments/assets/6c5e27ba-9d44-4467-ba5c-b8027967d304" width="600">  
+
+### Ethereum Blockchain Explorer
+An Ethereum explorer to visualize and interact with blockchain data. Built with web3.js, it allows users to track transactions, addresses, and blocks. [View Project](https://github.com/dan01240/eth-explorer)
+
+<img src="https://github.com/user-attachments/assets/402199ba-01f2-4465-bfbc-88f121f6196f" width="600">  
+
+### Homomorphic Encryption Demo
+A demonstration of homomorphic encryption concepts, enabling data to be processed while encrypted, ensuring privacy. This project is ideal for learning the basics of secure computation. [View Project](https://github.com/dan01240/homomorphic-encryption-demo)
+
+<img src="https://github.com/user-attachments/assets/cd37a59d-dddf-4c52-bed3-745ef6c1384b" width="600">  
+
 ## 🏆 Awards & Recognitions
 - **Featured in Weekly Diamond**: "Redefining Remote Society with Metaverse". [Reference](https://diamond.jp/articles/-/295882)
 - **Speaker at Blockchain EXE#18**. [Reference](https://blockchainexe.com/exe18/)
 - **Winner at DoraHacks Global Hackathon Series @ Tokyo**. [Reference](https://www.hackathon.com/event/dorahacks-blockchain-hack-tokyo-49465824613)
 - **Finalist at State of Chain @ Vietnam**. [Reference](https://www.facebook.com/stateofchain/)
 
-## 📝 Publications & Projects
-
-- 🌐 [Medium Articles](https://medium.com/@daiki01240): I write about blockchain technology, Ethereum, data visualization, and more. Check out my articles for insights into the latest trends and technologies.
-- 🚀 [GitHub Projects](https://github.com/dan01240): Explore my repositories, which include projects on Web3, NFT marketplaces, cloud-based applications, and beyond.
-
 ## 🌐 Find Me Online
 - **LinkedIn**: [linkedin.com/in/daiki-yamamoto-6686b4165](https://www.linkedin.com/in/daiki-yamamoto-6686b4165/)
 - **Medium**: [@daiki01240](https://medium.com/@daiki01240)
 - **GitHub**: [github.com/dan01240](https://github.com/dan01240)
-
-## 🤝 Let's Connect!
-Feel free to reach out for collaborations on blockchain projects, AI systems, or metaverse ventures. I'm always open to new challenges and learning opportunities!
-
----
-⭐️ If you find my work interesting, please consider starring my projects!
