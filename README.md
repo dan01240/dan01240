@@ -18,8 +18,11 @@ Welcome to my GitHub! With over 8 years of experience in software engineering, I
 - **Client Communication**: Needs assessment, technical research, management liaison, proposal creation
 
 ## 📚 Experience
+### Common Thread Collective (Oct 2024 – Present) - **Backend Engineer**
+- **US-based eCommerce Growth Agency**: Operating remotely with a headquarters in Santa Ana, California, focusing on driving online sales and marketing optimization for a diverse client portfolio.  
+- **Backend Data Management**: Responsible for overseeing data SLAs and security measures, ensuring smooth and reliable system performance through regular updates and enhancements.  
 
-### Freelance (Aug 2023 – Present) - Software Engineer | Project Manager
+### Freelance (Aug 2023 – July 2024) - Software Engineer | Project Manager
 - **AI Services at Hitachi**: Developed AI services, leading overall architecture and Keycloak authentication implementation. [Reference](https://www.hitachi.co.jp/New/cnews/month/2023/05/0515.html)
 - **Mentorship**: Provided mentorship on blockchain technology for clinical data sharing at Dell. [Reference](https://ascii.jp/elem/000/004/072/4072924/2/)
 - **DX Engineer Training Program**: Instructed "RPA/Data Analysis" course for mid-sized companies. [Reference](https://news.mynavi.jp/techplus/article/20221004-2469291/)
